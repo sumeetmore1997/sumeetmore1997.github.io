@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b111651.css",
-    "main.js": "/static/js/main.a92d78ad.js",
+    "main.css": "/static/css/main.08cfc6a6.css",
+    "main.js": "/static/js/main.e38e0c60.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Sumeet More_Resume1.pdf": "/static/media/Sumeet More_Resume1.89405d9c6f6d03301ced.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.1b111651.css.map": "/static/css/main.1b111651.css.map",
-    "main.a92d78ad.js.map": "/static/js/main.a92d78ad.js.map",
+    "main.08cfc6a6.css.map": "/static/css/main.08cfc6a6.css.map",
+    "main.e38e0c60.js.map": "/static/js/main.e38e0c60.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b111651.css",
-    "static/js/main.a92d78ad.js"
+    "static/css/main.08cfc6a6.css",
+    "static/js/main.e38e0c60.js"
   ]
 }
