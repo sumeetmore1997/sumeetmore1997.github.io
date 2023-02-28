@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.61e7cf03.css",
-    "main.js": "/static/js/main.e9be2956.js",
+    "main.js": "/static/js/main.7313ae13.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/fw17_0977_Sumeet_More_Resume1.pdf": "/static/media/fw17_0977_Sumeet_More_Resume1.89405d9c6f6d03301ced.pdf",
     "index.html": "/index.html",
     "main.61e7cf03.css.map": "/static/css/main.61e7cf03.css.map",
-    "main.e9be2956.js.map": "/static/js/main.e9be2956.js.map",
+    "main.7313ae13.js.map": "/static/js/main.7313ae13.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61e7cf03.css",
-    "static/js/main.e9be2956.js"
+    "static/js/main.7313ae13.js"
   ]
 }
